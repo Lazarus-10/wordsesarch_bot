@@ -4,6 +4,20 @@ This project is a fully automated bot that solves online word search puzzles in 
 
 ---
 
+## 📸 Screenshots
+
+| Initial Grid           | Solving In Action      |
+|-----------------------|-----------------------|
+| ![Initial Grid](assets/initialGrid.png) | ![Solving In Action](assets/solving_in_action.png) |
+
+---
+
+## 🎬 Bot in Action
+
+![Bot in Action](assets/bot_in_action.gif)
+
+---
+
 ## ⚙️ How to Run Locally
 
 ```bash
